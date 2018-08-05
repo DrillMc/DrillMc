@@ -1,1 +1,1 @@
-Itt tudod a szerverrel kapcsolatos probláműkat jelezni!
+Itt tudod a szerverrel kapcsolatos problémákat jelezni!
